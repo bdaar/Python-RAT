@@ -4,9 +4,9 @@
 
 Library and Requirements
 
-+ Socket Library `pip install sockets`
++ socket `pip install sockets`
 
-+ OS Library
++ os
 
 Clone RAT
 
