@@ -2,7 +2,7 @@
 
 ## Clone RAT
 ---
-+ HTTPS `https://github.com/bdaar/Python-RAT.git`
++ [HTTPS](https://github.com/bdaar/Python-RAT.git)
 ---
 + SSH `git@github.com:bdaar/Python-RAT.git`
 ---
