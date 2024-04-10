@@ -13,3 +13,5 @@ Clone RAT
 + SSH `git@github.com:bdaar/Python-RAT.git`
 ---
 + CLI (sh - bat - cmd - ps1) `gh repo clone bdaar/Python-RAT`
+
+~ I am not responsible for unauthorized use of this code!
