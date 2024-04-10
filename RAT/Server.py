@@ -1,8 +1,8 @@
 import socket
 import os
 
-host = '127.0.0.1'
-port = 98
+host = "[Host IP]"
+port = [Connection Port]
 
 with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as skt:
     skt.bind((host, port))
