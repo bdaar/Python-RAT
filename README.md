@@ -1,6 +1,12 @@
 # RAT (Remote Acess Trojan)
 
-{Clone RAT}
+Library and Requirements
+
++ Socket Library `pip install sockets`
+
++ OS Library
+
+Clone RAT
 
 + [HTTPS](https://github.com/bdaar/Python-RAT.git)
 ---
